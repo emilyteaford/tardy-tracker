@@ -9,9 +9,10 @@
 - no contact information is exposed to 
 - has to run on a chromebook
 
-*would be nice to have a place for excuse
-*would be nice to have a special notification for number of minutes arrived after start of class
-*would be nice to have an automatic parent contact ---> text, email,
+### Nice to Haves
+- a place for excuse
+- a special notification for number of minutes arrived after start of class
+- an automatic parent contact: text/email,
 
 
 
