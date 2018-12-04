@@ -1,0 +1,19 @@
+{
+  "name": "tardy-tracker",
+  "version": "0.1.0",
+  "description": "Track tardies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyteaford/tardy-tracker.git"
+  },
+  "author": "Emily Teaford",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/emilyteaford/tardy-tracker/issues"
+  },
+  "homepage": "https://github.com/emilyteaford/tardy-tracker#readme"
+}
